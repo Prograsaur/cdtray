@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-----------------------------------------------------------------------------
-# Author: Prograsaur (c) 2018
+# Author: Sergey Ishin (Prograsaur) (c) 2018
 #-----------------------------------------------------------------------------
 
 '''
@@ -11,7 +11,6 @@ Utilities for the CD-ROM drive tray manipulation
 import sys
 import ctypes
 from time import sleep
-from ctypes.wintypes import UINT, DWORD
 #endregion Imports
 
 #region Utils
